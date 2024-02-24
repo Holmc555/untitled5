@@ -1,0 +1,7 @@
+
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8éêÃÛİ1
+R
+java:S1141"5Extract this nested try block into a separate method.(ŒÊ×É8êêÃÛİ1
+½
+java:S1598"šThis file "DatabasePopulateService.java" should be located in "Populate" directory, not in "C:\Users\ĞĞ»ĞµĞ³\Desktop\untitled5\src\main\java\Population".(ÎÇÃûùÿÿÿÿ8ëêÃÛİ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÇÃûùÿÿÿÿ
